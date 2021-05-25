@@ -14,6 +14,8 @@ https://raw.githubusercontent.com/scarimp/my_NLP/master/INLP_LAB/Natural_Languag
 
 curl -O https://github.com/scarimp/my_NLP/blob/master/INLP_LAB/Tesi_Chiara_Alzetta.pdf
 
+curl -O https://github.com/scarimp/my_NLP/blob/master/chow-params.pdf
+
 
 --------------------------------------------------------
 or rename the file to download
