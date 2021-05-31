@@ -37,11 +37,11 @@ curl -O https://github.com/scarimp/my_NLP/blob/master/INLP_LAB/Tesi_Chiara_Alzet
 curl -O https://raw.githubusercontent.com/scarimp/my_NLP/master/chow-params.pdf
 
 --------------------------------------------------------
-or rename the file to download
+OR rename the file to download
 
 curl -o do-bots.txt  https://www.digitalocean.com/robots.txt
 
-or redirect
+OR redirect
 
     curl -I www.digitalocean.com
 
