@@ -1,6 +1,15 @@
 
 docker compose file for mayan edms  **docker-compose.yml**
 
+# uninstall docker-compose
+
+To uninstall Docker Compose if you installed using curl:
+
+*sudo rm /usr/local/bin/docker-compose*
+To uninstall Docker Compose if you installed using pip:
+*pip uninstall docker-compose*
+
+
 ## version 4.0 
 curl https://gitlab.com/mayan-edms/mayan-edms/-/raw/master/docker/docker-compose.yml -O
 
