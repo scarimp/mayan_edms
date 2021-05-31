@@ -1,5 +1,5 @@
 
-docker compose file for mayan edms  **docker-compose.yml
+docker compose file for mayan edms  *docker-compose.yml*
 
 ## version 4.0 
 curl https://gitlab.com/mayan-edms/mayan-edms/-/raw/master/docker/docker-compose.yml -O
