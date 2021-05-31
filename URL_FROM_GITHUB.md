@@ -15,7 +15,7 @@ install docker_compose vers. 1.9.2 on your local system
 
 sudo curl -L "https://github.com/docker/compose/releases/download/1.29.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 
-## version 4.0 
+## version 4.0  of mayan-edms
 curl https://gitlab.com/mayan-edms/mayan-edms/-/raw/master/docker/docker-compose.yml -O
 
 sudo chmod +x /usr/local/bin/docker-compose
