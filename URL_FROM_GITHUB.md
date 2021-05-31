@@ -1,5 +1,5 @@
 
-docker compose file for mayan edms  **docker-compose.yml**
+Docker compose file for mayan edms  **docker-compose.yml**
 
 # uninstall docker-compose
 
