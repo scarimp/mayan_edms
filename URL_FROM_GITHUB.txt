@@ -1,4 +1,13 @@
-LINKS to use with curl , get to download files from web
+
+docker compose file for mayan edms
+
+version 4.0
+curl https://gitlab.com/mayan-edms/mayan-edms/-/raw/master/docker/docker-compose.yml -O
+
+
+
+
+**LINKS to use with curl , get to download files from web**
 
 curl -O https://www.digitalocean.com/robots.txt
 
