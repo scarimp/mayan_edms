@@ -11,11 +11,16 @@ To uninstall Docker Compose if you installed using pip:
 
 - *pip uninstall docker-compose*
 
+install docker_compose vers. 1.9.2 on your local system
+
+sudo curl -L "https://github.com/docker/compose/releases/download/1.29.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 
 ## version 4.0 
 curl https://gitlab.com/mayan-edms/mayan-edms/-/raw/master/docker/docker-compose.yml -O
 
+sudo chmod +x /usr/local/bin/docker-compose
 
+see https://docs.mayan-edms.com/chapters/docker/install_docker_compose.html#docker-compose-install
 
 
 # LINKS to use with curl , get to download files from web**
